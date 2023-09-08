@@ -1,0 +1,35 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  background-color: #109BE9;
+  max-width: 1440px;
+  width: 100%;
+  position: fixed;
+  z-index: 1111;
+  padding: 27px 0px;
+}
+
+section {
+  padding-top: 120px;
+}
+
+.card {
+  width: 296px;
+}
+
+.card h3 {
+  width: 264px !important;
+}
+
+
+.post-row {
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.col-4 {
+  border: 1px solid black;
+}
